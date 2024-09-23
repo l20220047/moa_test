@@ -2,7 +2,7 @@
 
 # my first project in JS;
 
-ahoj!
+ahoj
 
 
 
